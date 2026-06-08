@@ -1,8 +1,0 @@
-variant,FAD,KL,source
-w/o TAM,1.62,0.21,manuscript_reported_summary
-w/o CMTs,1.69,0.24,manuscript_reported_summary
-w/o contrastive loss,1.55,0.18,manuscript_reported_summary
-w/o TSF,1.53,0.17,manuscript_reported_summary
-Fusion: Direct Concat,1.85,0.26,manuscript_reported_summary
-Fusion: Cross-Attn,1.68,0.20,manuscript_reported_summary
-Our Full Model,1.50,0.15,manuscript_reported_summary

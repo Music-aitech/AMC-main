@@ -1,6 +1,0 @@
-{
-  "templates": [
-    "Create {emotion_label} {genre} music at {tempo_range} BPM for the visual sequence.",
-    "Compose a {genre} soundtrack matching the scene dynamics and {emotion_label} mood."
-  ]
-}

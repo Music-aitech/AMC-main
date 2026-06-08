@@ -1,9 +1,0 @@
-name: eval_created_controls
-split: created_controls
-domain: controlled_visual_and_modality_tests
-inference_length_sec: 10
-metrics: [FAD, KL, tempo_error_percent, CLAP_similarity]
-summary_csvs:
-  - results/table6_visual_perturbation.csv
-  - results/table7_missing_modality.csv
-raw_media_required_for_recomputation: true

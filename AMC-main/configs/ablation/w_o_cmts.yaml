@@ -1,3 +1,0 @@
-name: w_o_cmts
-base_config: ../train_amc.yaml
-disabled_modules: [CMTs]

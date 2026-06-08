@@ -1,5 +1,0 @@
-method,train_nn_similarity,test_nn_similarity,FAD,source
-Direct Concat,0.88,0.67,3.22,manuscript_reported_summary
-Cross-Attn,0.86,0.64,2.45,manuscript_reported_summary
-w/o CMTs,0.84,0.62,1.81,manuscript_reported_summary
-Full AMC,0.81,0.58,0.67,manuscript_reported_summary
