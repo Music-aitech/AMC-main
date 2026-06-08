@@ -1,0 +1,4 @@
+name: cross_attn
+base_config: ../train_amc.yaml
+fusion: cross_attention
+enabled_modules: [TAM, CMTs, TSF]

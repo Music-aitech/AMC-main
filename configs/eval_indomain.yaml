@@ -1,0 +1,7 @@
+name: eval_indomain
+split: test
+domain: licensed_corpus_indomain
+inference_length_sec: 10
+metrics: [FAD, KL]
+summary_csv: results/table2_indomain_results.csv
+raw_media_required_for_recomputation: true

@@ -1,0 +1,6 @@
+emotion_label,clip_count,MOS_mean,MOS_sd,source
+Very Positive,25,4.32,0.35,manuscript_reported_anonymized_summary
+Moderate Positive,28,4.18,0.37,manuscript_reported_anonymized_summary
+Neutral,14,3.96,0.40,manuscript_reported_anonymized_summary
+Moderate Negative,16,4.05,0.38,manuscript_reported_anonymized_summary
+Very Negative,17,4.12,0.36,manuscript_reported_anonymized_summary

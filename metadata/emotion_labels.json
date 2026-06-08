@@ -1,0 +1,10 @@
+{
+  "labels": [
+    "very positive",
+    "moderate positive",
+    "neutral",
+    "moderate negative",
+    "very negative"
+  ],
+  "note": "Ordinal labels used by the paper; annotation decisions should follow annotation_guidelines.md."
+}
