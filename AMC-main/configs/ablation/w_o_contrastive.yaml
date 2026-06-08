@@ -1,0 +1,3 @@
+name: w_o_contrastive
+base_config: ../train_amc.yaml
+contrastive_loss_weight: 0.0

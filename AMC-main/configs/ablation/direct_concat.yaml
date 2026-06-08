@@ -1,0 +1,4 @@
+name: direct_concat
+base_config: ../train_amc.yaml
+fusion: direct_concat
+enabled_modules: [TAM, CMTs, TSF]

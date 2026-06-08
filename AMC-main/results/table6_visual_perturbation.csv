@@ -1,0 +1,7 @@
+condition,CLAP_similarity_mean,CLAP_similarity_sd,FAD,KL,tempo_error_percent,source
+Original video,0.43,0.08,1.50,0.15,4.8,manuscript_reported_summary
+Static frames,0.24,0.06,1.74,0.21,8.7,manuscript_reported_summary
+Shuffled frames,0.27,0.07,1.79,0.23,9.6,manuscript_reported_summary
+Blurred frames,0.31,0.07,1.66,0.19,7.4,manuscript_reported_summary
+Temporally shifted video,0.29,0.08,1.82,0.24,10.8,manuscript_reported_summary
+Wrong video paired with text,0.22,0.06,1.88,0.26,12.1,manuscript_reported_summary
